@@ -22,8 +22,8 @@ global.APIKeys = {
 global.owner = ['+212674874107']
 global.premium = ['+212674874107']
 global.ownernomer = '+212674874107'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'yassine 🏌️'
+global.ownername = 'yassine 7'
+global.botname = 'ZENX1'
 global.footer = '© Zenx1.'
 global.ig = 'https://instagram.com/7x8.q_'
 global.region = 'Morocco, Agadir'
@@ -59,7 +59,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
+global.thumb = fs.readFileSync('2a4509fc8b38573f8c38dfe967cd3533.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
