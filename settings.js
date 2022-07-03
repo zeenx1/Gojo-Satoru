@@ -15,14 +15,14 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'zenx1', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['+212674874107']
-global.premium = ['+212674874107']
+global.owner = ['+212 674-874107']
+global.premium = ['+212 674-874107']
 global.ownernomer = '+212674874107'
-global.ownername = 'yassine 7'
+global.ownername = 'yassine 🧑‍🦯'
 global.botname = 'ZENX1'
 global.footer = '© Zenx1.'
 global.ig = 'https://instagram.com/7x8.q_'
