@@ -1813,7 +1813,7 @@ break
                                 }
                             }]
                       let txt = `「 GOJO-SATORU HERE 🎉」\n\n${text}`
-                      GojoMdNx.send5ButImg(yoi, txt, GojoMdNx.user.name, global.thumb, btn)
+                      GojoMdNx.send5ButImg(yoi Zenx1.user.name, global.thumb, btn)
 		}
 		reply('Broadcast Success')
             }
